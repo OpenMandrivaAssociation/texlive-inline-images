@@ -1,6 +1,6 @@
 Name:		texlive-inline-images
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Inline images in base64 encoding
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inline-images
