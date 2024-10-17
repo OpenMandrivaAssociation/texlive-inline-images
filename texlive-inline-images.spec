@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Inline images in base64 encoding
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inline-images
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inline-images
 License:	lgpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inline-images.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inline-images.doc.r%{version}.tar.xz
